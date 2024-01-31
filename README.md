@@ -1,1 +1,3 @@
 # SanFran_Housing_Analysis
+
+The SanFran_Housing folder contains a Jupyter Lab Notebook named "san_francisco_housing.ipynb." This notebook anaylzes San Francisco housing analysis based on neighborhood census data and neighborhood coordinates between 2010 and 2016. The analysis uncovers trends across San Francisco neighborhoods during this time period and identifies valuable real estate investment opportunities for 2016.
